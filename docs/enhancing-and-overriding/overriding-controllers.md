@@ -5,7 +5,7 @@ Maybe you need to override the default's functionality of the module's controlle
 Yii2 Modules have an attribute named `controllerMap` that you can configure with your very own controllers.
 
 Please, before you override a controller's action, make sure that it won't be enough with using the 
-(controller's events)[../events/controller-events.md].
+[controller's events](../events/controller-events.md).
 
 > See more about this attribute on 
 > [ The Definitive Guide to Yii 2.0](http://www.yiiframework.com/doc-2.0/guide-structure-controllers.html#controller-map) 
